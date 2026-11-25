@@ -3,6 +3,7 @@
 
 In high school, I lost the calculator I had been using since junior high. Instead of buying a new one, my dad gave me his TI-84 Plus CE calculator. Initially, I found it awkward and foreign to use, but eventually, I couldn't imagine doing schoolwork without it. I plan to use it well into college, so I need to keep track of programs I use and don't use. In case I ever need to reset my calculator and reinstall the necessary programs, this repository will be useful.
 
+### High school
 | <div align="center">No.</div> | <div align="center">Name (click to download)</div> | <div align="center">Demo</div> | <div align="center">Note</div> |
 | :--- | :--- | :--- | :--- |
 | 1 | [CIRCLE](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/CIRCLE.8xp) | ![](/demo/CIRCLE.png) | Removed `R<>D Cnv` from original program because it's buggy and refactored code! |
@@ -15,3 +16,11 @@ In high school, I lost the calculator I had been using since junior high. Instea
 | 8 | [POLYMD](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/POLYNOMIALMULTIPLICATIONDIVISION.8xp) | ![](/demo/POLYMD1.png) ![](/demo/POLYMD2.png) | **INPUT** → **OUTPUT** <br> $$(2x+3)(x−5)$$ → $$2x^2−7x−15$$ <br> $$\frac{2x^3+5x^2−3x−9}{x+3}$$ → $$2x^2−x$$ <br> Remainder: $−9$ <br> • Please wrap every polynomial in parentheses. <br> • The program will return incorrect coeffficients and remainders if dividend is a sparse polynomial. |
 | 9 | [POLYINTP](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/POLYNOMINALINTERPOLATION.8xp) | ![](/demo/POLYINTP.png) | **INPUT**: (look at image) <br> **OUTPUT**: $$y=x^2-2x-1$$ <br> Once graph is drawn, you can press CLEAR to exit the program. <br> • Linear: 2 <br> • Quadratic: 3 (weird because for $-x^2+4x$ I have to input 4 points...) <br> • Cubic: 4 <br> • Quartic: 5 |
 | 10 | [TRIGEV](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/TRIGONOMETRYEXACTVALUE.8xp) | ![](/demo/TRIGEV.png) | **INPUT**: $sin(18^{\circ})$ or $sin(\frac{\pi}{10})$ <br> **OUTPUT**: $\frac{\sqrt{5}}{4}-\frac{1}{4}$ |
+
+### College
+| <div align="center">No.</div> | <div align="center">Name (click to download)</div> | <div align="center">Demo</div> | <div align="center">Note</div> |
+| :--- | :--- | :--- | :--- |
+|  |  |  |  |
+
+---
+
