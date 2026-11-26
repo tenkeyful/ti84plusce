@@ -20,7 +20,7 @@ In high school, I lost the calculator I had been using since junior high. Instea
 ### College
 | <div align="center">No.</div> | <div align="center">Name (click to download)</div> | <div align="center">Demo</div> | <div align="center">Note</div> |
 | :--- | :--- | :--- | :--- |
-| 1 | [GAUSSELM](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/GAUSSIANELIMINATION.8xp) | ![](/demo/GAUSSELM.png) | **INPUT**: $`\begin{bmatrix}1 & 1 & 1 \\ 2 & 1 & 0 \\ 1 & 0 & -1\end{bmatrix}`$ <br> **OUTPUT**: (look at image) <br> Input augmented matrix as [A] in `2nd` + `x`<sup>`-1`</sup> . Remember the number of rows and columns. When shown `ERROR: UNDEFINED`, ignore it, and voilà. Built-in `ref(` sucks so I made this. |
+| 1 | [GAUSSELM](https://raw.githubusercontent.com/tenkeyful/ti84plusce/main/pgrm/GAUSSIANELIMINATION.8xp) | ![](/demo/GAUSSELM.png) | **INPUT**: $`\begin{bmatrix}1 & 1 & 1 \\ 2 & 1 & 0 \\ 1 & 0 & -1\end{bmatrix}`$ <br> **OUTPUT**: (look at image) <br> Input augmented matrix as [A] in `2nd` + `x`<sup>`-1`</sup> . Built-in `ref(` doesn't preserve the first row, so I made this. |
 
 ---
 > [!NOTE]
